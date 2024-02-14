@@ -15,3 +15,8 @@ In progress. Sentiment Analysis and Portfolio Creation of WallStreetBets opinion
 - Design frontend for ghpages
 - CRON job to run daily and update portfolio?
 - Portion size by [HRP](https://www.mathworks.com/help/finance/create-hierarchical-risk-parity-portfolio.html) model (create WSB index)
+
+## Currently Working On
+
+- Runtime caching in case something goes wrong during runtime
+- Preprocess and label data
